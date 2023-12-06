@@ -1,8 +1,8 @@
 # First, make sure you've installed these libraries:
-# pip install streamlit
-# pip install langchain
-# pip install python-docx
-# pip install openai
+pip install streamlit
+pip install langchain
+pip install python-docx
+pip install openai
 
 import os
 import io
